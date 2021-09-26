@@ -1,4 +1,3 @@
 # Desvla
 Site com Flexbox
-
-Projeto feito em aula - B7Web
+Projeto realizado em aula no Curso de Programação Fullstack da B7Web.
